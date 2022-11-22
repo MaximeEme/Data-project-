@@ -4,7 +4,7 @@
 
 Case study to complete the Google/ Coursera Data Analytics Professional Certificate using real life data to answer the business question : Analyse smart data usage from fitbit users to discover trends and apply them to the Bellabeat marketing team. It has been done using R studio.
 
-## Recommendations :
+### Recommendations :
 
 I would encourage Bellabeat to continue their trend searching and to extend their datasets to be able to find more noticeable trends and have better results.
 
@@ -18,7 +18,7 @@ I would encourage Bellabeat to continue their trend searching and to extend thei
 
 Case study using data provided by Google during the Google/ Coursera Data Analytics Professional Certifcate. I have used data to answer the business question : Analyse historical trip data from Cyclist to identify trends and connections between casual riders and annual members. It has been done with R studio and Tableau.
 
-## Recommendations :
+### Recommendations :
 
 Over the two-year period that I covered (2020/2022), they were more member than casual riders. The member preferred the docked bikes and the classic bike being close second than electrical bikes.
 
