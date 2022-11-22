@@ -1,4 +1,4 @@
-# Data-projects-
+# Data-projects
 
 ## Bellabeat_Case_Study [link](https://github.com/MaximeEme/Bellabeat_Case_Study) 
 
