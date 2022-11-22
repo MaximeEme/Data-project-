@@ -4,7 +4,7 @@
 
 Case study to complete the Google/ Coursera Data Analytics Professional Certificate using real life data to answer the business question : Analyse smart data usage from fitbit users to discover trends and apply them to the Bellabeat marketing team. It has been done using R studio.
 
-## Recommendations
+## Recommendations :
 
 I would encourage Bellabeat to continue their trend searching and to extend their datasets to be able to find more noticeable trends and have better results.
 
